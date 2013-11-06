@@ -1,0 +1,17 @@
+{
+  "name": "underscore_examples",
+  "version": "0.0.1",
+  "description": "Code Fellows HW using and exploring specific underscore functions",
+  "private": true,
+  "engines": {
+    "node": "0.10.21",
+    "npm": "1.3.11"
+  },
+  "main": "underscore_examples.js",
+  "dependencies": {
+    "underscore": "1.5.2"
+  },
+  "scripts": {
+    "start": "node underscore_examples.js"
+  }
+}
